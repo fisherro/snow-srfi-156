@@ -10,6 +10,8 @@
 ;;> The code is by Panicz Maciej Godek.
 ;;>
 ;;> This snowball was made by Robert Fisher.
+;;>
+;;> \hyperlink[https://github.com/fisherro/snow-srfi-156]{github repo}
 (define-library (srfi 156)
   (export is isnt)
   (import (scheme base))
